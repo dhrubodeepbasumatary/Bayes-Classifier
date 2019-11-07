@@ -1,8 +1,10 @@
 '''
 Pattern recognition cs669
+Instructor : Dr. Dileep A.D
+IIT Mandi
 
+5th sem
 lab 1 
-
 Group10
 
 '''
